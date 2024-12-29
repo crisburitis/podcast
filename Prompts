@@ -1,0 +1,25 @@
+## 🧠 Prompts
+
+ChatGPT：
+                                                                                                                                                                                                                                                                         |
+Título
+Crie um título para um podcast cujo tema é o uso da inteligência artificial no processo de aprendizagem
+
+Conteúdo  
+Você é um roteirista de podcast, e vamos criar um  roteiro de um podcast de educação, focado no uso de inteligência artificial no processo de aprendizagem,
+o formato do roteiro deve ser:
+[INTRODUÇÃO]
+[CURIOSIDADE 1]
+[CURIOSIDADE 2]
+[FINALIZAÇÃO]
+
+{REGRAS}
+
+ - use termos de fácil explicação 
+- O podcast vai ser apresentado somente por uma pessoa, chamada Adalgisa 
+- O podcast deve ser curto
+
+{REGRAS NEGATIVAS}
+
+- Não use muitos termos técnicos
+- Não ultrapasse 5 minutos de duração
